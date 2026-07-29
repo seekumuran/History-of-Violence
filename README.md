@@ -1,22 +1,22 @@
-# LEO
+# History of Violence
 
-> Building immersive worlds where gameplay meets intelligent systems.
+> Every action leaves a legacy.
 
-LEO is a first-person action game that combines cinematic storytelling, dynamic gameplay, and intelligent game systems. Inspired by futuristic action titles, the project explores AI-driven gameplay mechanics, responsive environments, and immersive world-building using modern game development technologies.
+History of Violence is a narrative-driven first-person action game exploring the long-term consequences of conflict, revenge, and survival. Through cinematic storytelling and immersive gameplay, players experience how violence shapes individuals, communities, and history itself.
 
 ## Overview
 
-LEO is designed as an experimental game development project focused on creating engaging player experiences through advanced mechanics, environmental interaction, and intelligent NPC behavior. The project emphasizes performance, realism, and scalable game architecture.
+Set in a morally complex world, History of Violence combines fast-paced combat with environmental storytelling and meaningful player choices. Rather than glorifying conflict, the game focuses on the lasting impact of every decision, encouraging players to navigate a world where every action has consequences.
 
 ## Features
 
-- First-person action gameplay
-- AI-driven NPC behavior
-- Dynamic combat system
+- Narrative-driven first-person gameplay
+- Cinematic story progression
+- Dynamic combat mechanics
+- AI-driven enemy behavior
 - Interactive environments
-- Mission-based progression
-- Real-time physics and animation
-- Modular game architecture
+- Choice-based encounters
+- Immersive world-building
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ LEO is designed as an experimental game development project focused on creating 
 
 ## Vision
 
-Create immersive gaming experiences that blend intelligent systems, cinematic storytelling, and modern gameplay mechanics into a scalable and engaging game world.
+Create a story-driven action experience that explores the human cost of violence through immersive gameplay, intelligent systems, and cinematic storytelling.
 
 ## Status
 
